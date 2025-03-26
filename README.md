@@ -455,3 +455,4 @@ add routes to a Flask app to support full CRUD operations.
 - [Flask-SQLAlchemy](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/)
 - [Flask-SQLAlchemy Session](https://flask-sqlalchemy.palletsprojects.com/en/3.0.x/api/#module-flask_sqlalchemy.session)
 - [SQLAlchemy Transaction](https://docs.sqlalchemy.org/en/20/orm/session_transaction.html)
+
